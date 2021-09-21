@@ -1,0 +1,39 @@
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.deps.json
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.csproj.AssemblyReference.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.AssemblyInfoInputs.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.AssemblyInfo.cs
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.csproj.CopyComplete
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.deps.json
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.AssemblyInfo.cs
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.csproj.CopyComplete
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.pdb
+D:\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.deps.json
+D:\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.dll
+D:\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.pdb
+D:\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Entidades.dll
+D:\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\bin\Debug\netcoreapp3.1\Entidades.pdb
+D:\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.csproj.AssemblyReference.cache
+D:\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.AssemblyInfoInputs.cache
+D:\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.AssemblyInfo.cs
+D:\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.csproj.CoreCompileInputs.cache
+D:\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.csproj.CopyComplete
+D:\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.dll
+D:\Dale\Backend\AplicacionPrueba\Repositorio.Interfaces\obj\Debug\netcoreapp3.1\Repositorio.Interfaces.pdb

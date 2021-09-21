@@ -1,0 +1,45 @@
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.deps.json
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.csproj.AssemblyReference.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.AssemblyInfoInputs.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.AssemblyInfo.cs
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.csproj.CopyComplete
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.deps.json
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.AssemblyInfo.cs
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.csproj.CopyComplete
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.pdb
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.deps.json
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.dll
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.pdb
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Entidades.dll
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.dll
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.pdb
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\bin\Debug\netcoreapp3.1\Entidades.pdb
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.csproj.AssemblyReference.cache
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.AssemblyInfoInputs.cache
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.AssemblyInfo.cs
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.csproj.CoreCompileInputs.cache
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.csproj.CopyComplete
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.dll
+D:\Dale\Backend\AplicacionPrueba\Repositorio.SqlServer\obj\Debug\netcoreapp3.1\Repositorio.SqlServer.pdb

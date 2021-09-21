@@ -1,0 +1,464 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dale\\Backend\\AplicacionPrueba\\Cliente.Api\\Cliente.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Dale\\Backend\\AplicacionPrueba\\Cliente.Api\\Cliente.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dale\\Backend\\AplicacionPrueba\\Cliente.Api\\Cliente.Api.csproj",
+        "projectName": "Cliente.Api",
+        "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Cliente.Api\\Cliente.Api.csproj",
+        "packagesPath": "C:\\Users\\Mhuertas\\.nuget\\packages\\",
+        "outputPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Cliente.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mhuertas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Dale\\Backend\\AplicacionPrueba\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Entidades\\Entidades.csproj"
+              },
+              "D:\\Dale\\Backend\\AplicacionPrueba\\Services\\Services.csproj": {
+                "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dale\\Backend\\AplicacionPrueba\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dale\\Backend\\AplicacionPrueba\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\Mhuertas\\.nuget\\packages\\",
+        "outputPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mhuertas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.Interfaces\\Repositorio.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.Interfaces\\Repositorio.Interfaces.csproj",
+        "projectName": "Repositorio.Interfaces",
+        "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.Interfaces\\Repositorio.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Mhuertas\\.nuget\\packages\\",
+        "outputPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mhuertas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Dale\\Backend\\AplicacionPrueba\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.SqlServer\\Repositorio.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.SqlServer\\Repositorio.SqlServer.csproj",
+        "projectName": "Repositorio.SqlServer",
+        "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.SqlServer\\Repositorio.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\Mhuertas\\.nuget\\packages\\",
+        "outputPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mhuertas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.Interfaces\\Repositorio.Interfaces.csproj": {
+                "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.Interfaces\\Repositorio.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dale\\Backend\\AplicacionPrueba\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dale\\Backend\\AplicacionPrueba\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Mhuertas\\.nuget\\packages\\",
+        "outputPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mhuertas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Dale\\Backend\\AplicacionPrueba\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Entidades\\Entidades.csproj"
+              },
+              "D:\\Dale\\Backend\\AplicacionPrueba\\Uow.Interface\\Uow.Interface.csproj": {
+                "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Uow.Interface\\Uow.Interface.csproj"
+              },
+              "D:\\Dale\\Backend\\AplicacionPrueba\\UoW.SqlServer\\UoW.SqlServer.csproj": {
+                "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\UoW.SqlServer\\UoW.SqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dale\\Backend\\AplicacionPrueba\\Uow.Interface\\Uow.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dale\\Backend\\AplicacionPrueba\\Uow.Interface\\Uow.Interface.csproj",
+        "projectName": "Uow.Interface",
+        "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Uow.Interface\\Uow.Interface.csproj",
+        "packagesPath": "C:\\Users\\Mhuertas\\.nuget\\packages\\",
+        "outputPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Uow.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mhuertas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.Interfaces\\Repositorio.Interfaces.csproj": {
+                "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.Interfaces\\Repositorio.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dale\\Backend\\AplicacionPrueba\\UoW.SqlServer\\UoW.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dale\\Backend\\AplicacionPrueba\\UoW.SqlServer\\UoW.SqlServer.csproj",
+        "projectName": "UoW.SqlServer",
+        "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\UoW.SqlServer\\UoW.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\Mhuertas\\.nuget\\packages\\",
+        "outputPath": "D:\\Dale\\Backend\\AplicacionPrueba\\UoW.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mhuertas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.Interfaces\\Repositorio.Interfaces.csproj": {
+                "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.Interfaces\\Repositorio.Interfaces.csproj"
+              },
+              "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.SqlServer\\Repositorio.SqlServer.csproj": {
+                "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Repositorio.SqlServer\\Repositorio.SqlServer.csproj"
+              },
+              "D:\\Dale\\Backend\\AplicacionPrueba\\Uow.Interface\\Uow.Interface.csproj": {
+                "projectPath": "D:\\Dale\\Backend\\AplicacionPrueba\\Uow.Interface\\Uow.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

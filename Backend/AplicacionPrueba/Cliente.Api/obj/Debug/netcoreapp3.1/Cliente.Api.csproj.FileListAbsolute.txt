@@ -1,0 +1,139 @@
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.exe
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.deps.json
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.runtimeconfig.json
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.runtimeconfig.dev.json
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.csproj.AssemblyReference.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.AssemblyInfoInputs.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.AssemblyInfo.cs
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.csproj.CoreCompileInputs.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\staticwebassets\Cliente.Api.StaticWebAssets.Manifest.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\staticwebassets\Cliente.Api.StaticWebAssets.xml
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Cliente.Api.styles.css
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.RazorTargetAssemblyInfo.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.genruntimeconfig.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Uow.Interface.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\UoW.SqlServer.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Uow.Interface.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\UoW.SqlServer.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.csproj.CopyComplete
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.exe
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.deps.json
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.runtimeconfig.json
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.runtimeconfig.dev.json
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Uow.Interface.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\UoW.SqlServer.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Uow.Interface.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\UoW.SqlServer.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.csproj.AssemblyReference.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.AssemblyInfoInputs.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.AssemblyInfo.cs
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.csproj.CoreCompileInputs.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\staticwebassets\Cliente.Api.StaticWebAssets.Manifest.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\staticwebassets\Cliente.Api.StaticWebAssets.xml
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Cliente.Api.styles.css
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.csproj.CopyComplete
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.genruntimeconfig.cache
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.exe
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.deps.json
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.runtimeconfig.json
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.runtimeconfig.dev.json
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Cliente.Api.pdb
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Entidades.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Services.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Uow.Interface.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\UoW.SqlServer.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Entidades.pdb
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Services.pdb
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Repositorio.Interfaces.pdb
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Repositorio.SqlServer.pdb
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\Uow.Interface.pdb
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\bin\Debug\netcoreapp3.1\UoW.SqlServer.pdb
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.csproj.AssemblyReference.cache
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.AssemblyInfoInputs.cache
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.AssemblyInfo.cs
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.csproj.CoreCompileInputs.cache
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\staticwebassets\Cliente.Api.StaticWebAssets.Manifest.cache
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\staticwebassets\Cliente.Api.StaticWebAssets.xml
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Cliente.Api.styles.css
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.RazorTargetAssemblyInfo.cache
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.csproj.CopyComplete
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.dll
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.pdb
+D:\Dale\Backend\AplicacionPrueba\Cliente.Api\obj\Debug\netcoreapp3.1\Cliente.Api.genruntimeconfig.cache

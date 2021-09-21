@@ -1,0 +1,29 @@
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\mhuertas\Desktop\Dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.AssemblyReference.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Mhuertas\OneDrive - quantumconnexion.com\Escritorio\dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
+D:\Dale\Backend\AplicacionPrueba\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+D:\Dale\Backend\AplicacionPrueba\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+D:\Dale\Backend\AplicacionPrueba\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+D:\Dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.AssemblyReference.cache
+D:\Dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+D:\Dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+D:\Dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+D:\Dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+D:\Dale\Backend\AplicacionPrueba\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
